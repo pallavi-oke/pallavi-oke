@@ -15,7 +15,7 @@ Started this practice April 2026.
 
 ## Current pilots
 
-- [contentforge)(https://github.com/pallavi-oke/contentforge)— ContentForge is an autonomous, multi-agent AI pipeline designed to scale high-quality SEO content generation while strictly enforcing enterprise compliance and monetization constraints
+- [contentforge](https://github.com/pallavi-oke/contentforge)— ContentForge is an autonomous, multi-agent AI pipeline designed to scale high-quality SEO content generation while strictly enforcing enterprise compliance and monetization constraints
 - [adrx](https://github.com/pallavi-oke/adrx) — AdRx is a command-line agent built on the Anthropic API using Claude's tool-use capability. 
 - [policypilot](https://github.com/pallavi-oke/policypilot) — An agentic ad compliance reviewer built with ClaudeCode
 
