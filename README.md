@@ -15,7 +15,7 @@ Started this practice April 2026.
 
 ## Current pilots
 
-- [sentinel vantage] (https://github.com/pallavi-oke/merchantmind) - Sentinal Vantage is a pilot demonstrating next generation of AI-driven corporate rewards management. It moves beyond traditional dashboards by combining **Voice-First Agentic Reasoning** with **Hard-Enforced Governance Guardrails**.
+- [sentinelvantage](https://github.com/pallavi-oke/merchantmind) - Sentinal Vantage is a pilot demonstrating next generation of AI-driven corporate rewards management. It moves beyond traditional dashboards by combining **Voice-First Agentic Reasoning** with **Hard-Enforced Governance Guardrails**.
 - [contentforge](https://github.com/pallavi-oke/contentforge)— ContentForge is an autonomous, multi-agent AI pipeline designed to scale high-quality SEO content generation while strictly enforcing enterprise compliance and monetization constraints
 - [adrx](https://github.com/pallavi-oke/adrx) — AdRx is a command-line agent built on the Anthropic API using Claude's tool-use capability. 
 - [policypilot](https://github.com/pallavi-oke/policypilot) — An agentic ad compliance reviewer built with ClaudeCode
