@@ -20,6 +20,7 @@ Started this practice April 2026.
 - [adrx](https://github.com/pallavi-oke/adrx) — AdRx is a command-line agent built on the Anthropic API using Claude's tool-use capability. 
 - [policypilot](https://github.com/pallavi-oke/policypilot) — An agentic ad compliance reviewer built with ClaudeCode
 - [onroute](https://github.com/pallavi-oke/onroute) - An AI agent that decides how I spend my hour. Composes a daily commute briefing from email, podcasts, AI videos, and gym classes — narrated by ElevenLabs, mixed with Lenny's actual podcast voice, delivered to my iPhone.
+- [clade-code-improvements] (https://github.com/pallavi-oke/claude-code-improvements) - Three working prototypes proposing product improvements to Claude Code
 
 ## Find me elsewhere
 
