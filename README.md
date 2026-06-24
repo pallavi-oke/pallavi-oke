@@ -1,17 +1,15 @@
 # Hi, I'm Pallavi 👋
 
-Senior product manager with 10+ years building AI and marketing platforms.
-Most recently led a paid marketing platform rebuild at Ask Media Group (IAC)
-on OpenAI and a multi-agent content pipeline — turned an unprofitable program
-into $10M+ profit by end of 2025.
+Senior Product Manager with a technical background and 10+ years building product platforms, internal tools, growth systems, and workflow automation.
+Most of my work has been at the intersection of product, engineering, data, and operations — translating messy business problems into systems that teams can actually use and scale.
 
 ## What this profile is
 
-I'm building one agentic AI pilot per week, drawn from real product use
-cases I've encountered. Each pinned repo has a README explaining the
-problem, the approach, and what I learned.
+This GitHub is where I share small product and AI workflow experiments based on real problems I have seen in product work: internal tooling, automation, evaluation, data workflows, customer operations, and agentic product patterns.
 
-Started this practice April 2026.
+Each pinned repo includes a README with the problem, approach, tradeoffs, and what I learned.
+
+I started this practice in April 2026 as a way to keep building, learning, and making my product thinking more concrete.
 
 ## Current pilots
 
@@ -21,6 +19,7 @@ Started this practice April 2026.
 - [policypilot](https://github.com/pallavi-oke/policypilot) — An agentic ad compliance reviewer built with ClaudeCode
 - [onroute](https://github.com/pallavi-oke/onroute) - An AI agent that decides how I spend my hour. Composes a daily commute briefing from email, podcasts, AI videos, and gym classes — narrated by ElevenLabs, mixed with Lenny's actual podcast voice, delivered to my iPhone.
 - [clade-code-improvements](https://github.com/pallavi-oke/claude-code-improvements) - Three working prototypes proposing product improvements to Claude Code
+- [green-kitchen-copilot](https://github.com/pallavi-oke/green-kitchen-multiagent) - 𝗚𝗿𝗲𝗲𝗻 𝗞𝗶𝘁𝗰𝗵𝗲𝗻 is an AI restocking copilot designed specifically for community meal programs to cut food waste and recover lost budgets. Multiagent architecture.
 
 ## Find me elsewhere
 
