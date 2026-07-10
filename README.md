@@ -28,7 +28,7 @@ I started this practice in April 2026 to keep building, deepen my applied AI ski
 - [onroute](https://github.com/pallavi-oke/onroute) - An AI agent that decides how I spend my hour. Composes a daily commute briefing from email, podcasts, AI videos, and gym classes — narrated by ElevenLabs, mixed with Lenny's actual podcast voice, delivered to my iPhone.
 - [clade-code-improvements](https://github.com/pallavi-oke/claude-code-improvements) - Three working prototypes proposing product improvements to Claude Code
 - [green-kitchen-copilot](https://github.com/pallavi-oke/green-kitchen-multiagent) - 𝗚𝗿𝗲𝗲𝗻 𝗞𝗶𝘁𝗰𝗵𝗲𝗻 is an AI restocking copilot designed specifically for community meal programs to cut food waste and recover lost budgets. Multiagent architecture.
-- [financeguard-ai](https://github.com/pallavi-oke/financeguard-ai) - Financeguard AI - A governed multi-agent AI system for investigating corporate finance exceptions across month-end close, vendor billing, and T&E, with claim-level evidence grounding, independent critic verification, deterministic governance gates, and tamper-evident audit trails.
+- [financeguard-ai](https://github.com/pallavi-oke/financeguard-ai) - Financeguard AI: A governed multi-agent AI system for investigating corporate finance exceptions across month-end close, vendor billing, and T&E, with claim-level evidence grounding, independent critic verification, deterministic governance gates, and tamper-evident audit trails.
 
 ## Find me elsewhere
 
