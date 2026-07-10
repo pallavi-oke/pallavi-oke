@@ -1,6 +1,6 @@
 # Hi, I'm Pallavi 👋
 
-Senior Product Manager with a technical background and 10+ years building product platforms, internal tools, growth systems, and workflow automation.
+Senior Product & Program Manager with a technical background and 10+ years building and delivering product platforms, internal tools, growth systems, and workflow automation.
 Most of my work has been at the intersection of product, engineering, data, and operations — translating messy business problems into systems that teams can actually use and scale.
 
 ## What this profile is
