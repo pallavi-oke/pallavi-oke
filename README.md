@@ -35,3 +35,7 @@ I started this practice in April 2026 to keep building, deepen my applied AI ski
 - LinkedIn: [linkedin.com/in/pallavioke](https://linkedin.com/in/pallavioke)
 - Demos and writeups: posted on LinkedIn
 - Personal website: https://pallavioke.com/
+
+## Documentation/Learning resources:
+Building agent using MS Copilot Studio[Microsoft_Copilot_Studio_Agent_Building_Deck.pptx](https://github.com/user-attachments/files/33651759/Microsoft_Copilot_Studio_Agent_Building_Deck.pptx)
+
