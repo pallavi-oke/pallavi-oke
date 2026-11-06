@@ -35,4 +35,5 @@ I started this practice in April 2026 to keep building, deepen my applied AI ski
 - LinkedIn: [linkedin.com/in/pallavioke](https://linkedin.com/in/pallavioke)
 - Demos and writeups: posted on LinkedIn
 - Personal website: https://pallavioke.com/
+[ledprototype.html](https://github.com/user-attachments/files/34461460/ledprototype.html)
 
