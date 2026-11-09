@@ -36,4 +36,5 @@ I started this practice in April 2026 to keep building, deepen my applied AI ski
 - Demos and writeups: posted on LinkedIn
 - Personal website: https://pallavioke.com/
 
+[sample_react_poc.html](https://github.com/user-attachments/files/34565268/sample_react_poc.html)
 
